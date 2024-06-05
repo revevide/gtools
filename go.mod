@@ -1,4 +1,4 @@
-module gtools
+module github.com/revevide/gtools
 
 go 1.19
 
