@@ -17,4 +17,4 @@ crypto
 1. [crypto/rsa](./crypto/rsa/README.md)
 
 zapx
-1. [zap](./zapx/zap/README.md)
+1. [zap](./zapx/README.md)
